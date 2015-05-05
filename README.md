@@ -1,5 +1,5 @@
 ## Quadrillian
-quadrillian test suit  downloading  pahse-2
+quadrillian test suit  downloading  phase-2
 
 1. Install npm dependencies.
 2. Run test suite service file jsondata.js which will generate JSON data of the entire test suite .
